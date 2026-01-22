@@ -3,8 +3,7 @@
 <div>
   
 [![License](https://img.shields.io/badge/Licença-MIT-yellow)](./LICENSE)&nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()&nbsp;&nbsp;
-[![Deploy Status](https://img.shields.io/badge/Deploy-GitHubPages-black)](https://lucas16716.github.io/desafio-frontend/)
+[![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
 
 </div>
 
@@ -19,7 +18,7 @@
 
 O projeto se trata de uma **solução técnica** para o **desafio front-end** do processo seletivo da vaga de assistente de programador web na empresa APCD. O desafio consiste em **codificar fielmente um protótipo de uma página de formulário**, com foco na implementação de um **layout responsivo** e na **interatividade do formulário** (conforme as especificações solicitadas), visando um **código limpo, funcional e bem estruturado**.
 
-- 🌐 <a href="https://lucas16716.github.io/desafio-frontend/">Acesse a solução (GitHub Pages)
+- 🌐 <a href="https://lucas16716.github.io/desafio-frontend/">Acesse a página
 
 <h2>FUNCIONALIDADES</h2>
 
@@ -47,7 +46,6 @@ O projeto se trata de uma **solução técnica** para o **desafio front-end** do
 ├── index.html               # Estrutura principal (HTML)
 ├── style.css                # Folha de estilos (CSS)
 ├── script.js                # Lógica de interatividade (JS)
-│
 ├── README.md                # Documentação do projeto
 └── LICENSE                  # Licença MIT
 ```
