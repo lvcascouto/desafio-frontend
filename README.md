@@ -1,59 +1,66 @@
-<h1 align="center">Desafio Front-end 🧑🏻‍💻</h1>
+<div align="center">
 
-<div>
-  
-[![License](https://img.shields.io/badge/Licença-MIT-yellow)](./LICENSE)&nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
+# Desafio Front-End • APCD
+
+**Solução técnica para o desafio front-end desenvolvido no processo seletivo**
+
+*O projeto que me garantiu a vaga de Assistente Programador Web*
+
+[![Status](https://img.shields.io/badge/status-concluído-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
+[![Finalidade](https://img.shields.io/badge/finalidade-desafio%20técnico-e8e4de?style=flat-square&labelColor=orange&color=1c1b2e)]()&nbsp;
+[![Licença](https://img.shields.io/badge/licença-MIT-e8e4de?style=flat-square&labelColor=ef4444&color=1c1b2e)](./LICENSE)
 
 </div>
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-e-ferramentas">Tecnologias e Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#estruturação-do-projeto">Guia Repositório</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#estrutura">Estrutura</a>
 </p>
 
-<h2>PROJETO</h2>
+<h2 id="projeto">PROJETO</h2>
 
-O projeto se trata de uma **solução técnica** para o **desafio front-end** do processo seletivo da vaga de assistente de programador web na empresa APCD. O desafio consiste em **codificar fielmente um protótipo de uma página de formulário**, com foco na implementação de um **layout responsivo** e na **interatividade do formulário** (conforme as especificações solicitadas), visando um **código limpo, funcional e bem estruturado**.
+Solução desenvolvida para o desafio técnico front-end do processo seletivo da APCD — Associação Paulista de Cirurgiões-Dentistas. O desafio consistiu em codificar fielmente um protótipo de página de formulário a partir do Figma, com foco em layout responsivo, interatividade e código limpo e bem estruturado.
 
-- 🌐 <a href="https://lucas16716.github.io/desafio-frontend/">Acesse a página
+🌐 [Acesse o projeto](https://lucas16716.github.io/desafio-frontend/)
 
-<h2>FUNCIONALIDADES</h2>
+<h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
-- 🎨 Layout fiel ao protótipo;
-- 📱 Design responsivo;
-- ⚙️ Interatividade: Ao enviar o formulário, o botão é desativado, o texto muda para "Enviado" e os campos são limpos;
-- 🔄 Reativação automática: O botão de envio é reativado automaticamente após 1 minuto, permitindo novos envios sem recarregar a página.
+- **Fidelidade ao protótipo** — layout codificado fielmente a partir do Figma
+- **Design responsivo** — interface adaptada para diferentes dispositivos
+- **Interatividade do formulário** — ao enviar, o botão é desativado e o texto muda para "Enviado"
+- **Reativação automática** — botão reativado após 1 minuto sem recarregar a página
 
-<h2>TECNOLOGIAS E FERRAMENTAS</h2>
+<h2 id="tecnologias">TECNOLOGIAS</h2>
 
-- **HTML5 →** Estrutura semântica e acessível;
-- **CSS3 →** Estilização, responsividade e microinterações (:hover, :disabled);
-- **JavaScript (ES6+) →** Manipulação de DOM (addEventListener), microinterações do button e Function setTimeout;
-- **Git/GitHub →** Controle de versionamento e hospedagem do código-fonte;
-- **Canva →** Criação de logos e mockup;
-- **GitHub Pages →** Plataforma de deploy contínuo;
-- **Figma →** Ferramenta de design usada como referência para o protótipo.
+| Tecnologia | Uso |
+|---|---|
+| HTML5 | Estrutura semântica e acessível |
+| CSS3 | Estilos, responsividade e microinterações |
+| JavaScript ES6+ | Manipulação de DOM e lógica do formulário |
+| Figma | Referência do protótipo |
+| Git/Github | Versionamento e deploy |
 
----
+<h2 id="estrutura">ESTRUTURA</h2>
 
-<h2>ESTRUTURAÇÃO DO PROJETO</h2>
-
-```bash
-📁 desafio-frontend
-├── index.html               # Estrutura principal (HTML)
-├── style.css                # Folha de estilos (CSS)
-├── script.js                # Lógica de interatividade (JS)
-├── README.md                # Documentação do projeto
-└── LICENSE                  # Licença MIT
+```
+desafio-frontend/
+├── index.html     → Página principal
+├── style.css      → Estilos
+├── script.js      → JavaScript
+├── LICENSE
+└── README.md
 ```
 
 ---
 
-<h2>📝 LICENÇA</h2>
-<p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
+<h2>LICENÇA</h2>
 
-<h2>🧑🏻‍💻 AUTOR </h2>
-<p>Desenvolvido por <a href="https://www.linkedin.com/in/lucas-coutoti">Lucas Couto</a> para o desafio técnico APCD.</p>
+Este projeto está licenciado sob a licença MIT.
+Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+<h2>AUTOR</h2>
+
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
+Conheça meu trabalho em [Lucas Code](https://bio.site/lucascode).
